@@ -1,0 +1,38 @@
+C:\Users\User\source\repos\лаба 5.2\bin\Debug\лаба 5.2.exe.config
+C:\Users\User\source\repos\лаба 5.2\bin\Debug\лаба 5.2.exe
+C:\Users\User\source\repos\лаба 5.2\bin\Debug\лаба 5.2.pdb
+C:\Users\User\source\repos\лаба 5.2\obj\Debug\лаба 5.2.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\лаба 5.2\obj\Debug\лаба_5._2.Form1.resources
+C:\Users\User\source\repos\лаба 5.2\obj\Debug\лаба_5._2.Properties.Resources.resources
+C:\Users\User\source\repos\лаба 5.2\obj\Debug\лаба 5.2.csproj.GenerateResource.cache
+C:\Users\User\source\repos\лаба 5.2\obj\Debug\лаба 5.2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\лаба 5.2\obj\Debug\лаба 5.2.exe
+C:\Users\User\source\repos\лаба 5.2\obj\Debug\лаба 5.2.pdb
+C:\Users\User\source\repos\лаба 5.2\obj\Debug\лаба_5._2.Form2.resources
+C:\Users\User\source\repos\лаба 5.2\obj\Debug\лаба_5._2.Form3.resources
+C:\Users\MInKA\Downloads\Telegram Desktop\½áíá 5.2\bin\Debug\лаба 5.2.exe.config
+C:\Users\MInKA\Downloads\Telegram Desktop\½áíá 5.2\bin\Debug\лаба 5.2.exe
+C:\Users\MInKA\Downloads\Telegram Desktop\½áíá 5.2\bin\Debug\лаба 5.2.pdb
+C:\Users\MInKA\Downloads\Telegram Desktop\½áíá 5.2\obj\Debug\½áíá 5.2.csproj.AssemblyReference.cache
+C:\Users\MInKA\Downloads\Telegram Desktop\½áíá 5.2\obj\Debug\лаба_5._2.Form1.resources
+C:\Users\MInKA\Downloads\Telegram Desktop\½áíá 5.2\obj\Debug\лаба_5._2.Form2.resources
+C:\Users\MInKA\Downloads\Telegram Desktop\½áíá 5.2\obj\Debug\лаба_5._2.Form3.resources
+C:\Users\MInKA\Downloads\Telegram Desktop\½áíá 5.2\obj\Debug\лаба_5._2.Properties.Resources.resources
+C:\Users\MInKA\Downloads\Telegram Desktop\½áíá 5.2\obj\Debug\½áíá 5.2.csproj.GenerateResource.cache
+C:\Users\MInKA\Downloads\Telegram Desktop\½áíá 5.2\obj\Debug\½áíá 5.2.csproj.CoreCompileInputs.cache
+C:\Users\MInKA\Downloads\Telegram Desktop\½áíá 5.2\obj\Debug\лаба 5.2.exe
+C:\Users\MInKA\Downloads\Telegram Desktop\½áíá 5.2\obj\Debug\лаба 5.2.pdb
+C:\Users\MInKA\Downloads\Telegram Desktop\½áíá 5.2\obj\Debug\½áíá 5.2.csproj.SuggestedBindingRedirects.cache
+C:\Users\MInKA\OneDrive\Рабочий стол\вуз. C#\Лабы\2sem\lab5\лаба 5\½áíá 5.2\bin\Debug\лаба 5.2.exe.config
+C:\Users\MInKA\OneDrive\Рабочий стол\вуз. C#\Лабы\2sem\lab5\лаба 5\½áíá 5.2\bin\Debug\лаба 5.2.exe
+C:\Users\MInKA\OneDrive\Рабочий стол\вуз. C#\Лабы\2sem\lab5\лаба 5\½áíá 5.2\bin\Debug\лаба 5.2.pdb
+C:\Users\MInKA\OneDrive\Рабочий стол\вуз. C#\Лабы\2sem\lab5\лаба 5\½áíá 5.2\obj\Debug\½áíá 5.2.csproj.AssemblyReference.cache
+C:\Users\MInKA\OneDrive\Рабочий стол\вуз. C#\Лабы\2sem\lab5\лаба 5\½áíá 5.2\obj\Debug\½áíá 5.2.csproj.SuggestedBindingRedirects.cache
+C:\Users\MInKA\OneDrive\Рабочий стол\вуз. C#\Лабы\2sem\lab5\лаба 5\½áíá 5.2\obj\Debug\лаба_5._2.Form1.resources
+C:\Users\MInKA\OneDrive\Рабочий стол\вуз. C#\Лабы\2sem\lab5\лаба 5\½áíá 5.2\obj\Debug\лаба_5._2.Form2.resources
+C:\Users\MInKA\OneDrive\Рабочий стол\вуз. C#\Лабы\2sem\lab5\лаба 5\½áíá 5.2\obj\Debug\лаба_5._2.Form3.resources
+C:\Users\MInKA\OneDrive\Рабочий стол\вуз. C#\Лабы\2sem\lab5\лаба 5\½áíá 5.2\obj\Debug\лаба_5._2.Properties.Resources.resources
+C:\Users\MInKA\OneDrive\Рабочий стол\вуз. C#\Лабы\2sem\lab5\лаба 5\½áíá 5.2\obj\Debug\½áíá 5.2.csproj.GenerateResource.cache
+C:\Users\MInKA\OneDrive\Рабочий стол\вуз. C#\Лабы\2sem\lab5\лаба 5\½áíá 5.2\obj\Debug\½áíá 5.2.csproj.CoreCompileInputs.cache
+C:\Users\MInKA\OneDrive\Рабочий стол\вуз. C#\Лабы\2sem\lab5\лаба 5\½áíá 5.2\obj\Debug\лаба 5.2.exe
+C:\Users\MInKA\OneDrive\Рабочий стол\вуз. C#\Лабы\2sem\lab5\лаба 5\½áíá 5.2\obj\Debug\лаба 5.2.pdb
